@@ -3,6 +3,8 @@ ___
 **The Coding Journey** is a modern and intuitive learning platform designed to teach users how to build websites and web applications. The platform offers a range of courses, expert instruction, and lifetime access to learning resources.
 ___
 
+![Alt Text](https://github.com/talha-khokhar/thecodingjourney/blob/master/public/screencapture-localhost-3000-2024-08-14-02_19_51%20(1).png)
+
 ### Features
 - **Responsive Design**: Fully responsive design that works on various screen sizes, ensuring a seamless user experience.
 - **Interactive Courses**: Engage with interactive courses covering web development, mobile development, and software development.
