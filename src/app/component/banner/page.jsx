@@ -17,7 +17,7 @@ const Banner = () => {
             {/* Banner Text */}
             <div className="flex flex-col justify-center gap-6">
               <div className="text-center md:text-left space-y-12">
-                <h1 className='text-2xl md:text-4xl font-bold leading-snug'>The World's Leading Online Learning Platform</h1>
+                <h1 className='text-2xl md:text-4xl font-bold leading-snug'>The World&rsquo;s Leading Online Learning Platform</h1>
               </div>
               <div className="flex items-center gap-4 p-3 md:p-6 bg-[#f4f4f4] rounded-2xl hover:bg-white duration-300 hover:shadow-2xl">
                 <FaBookReader className='text-lg md:text-2xl'/>

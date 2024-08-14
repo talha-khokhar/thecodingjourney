@@ -59,8 +59,8 @@ const services = () => {
           <h1 className='text-4xl font-bold text-center md:text-left pb-10'>Services we provided</h1>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4 md:gap-8">
             {
-              ServicesData.map((services) => (
-                <div className='bg-[#f4f4f4] rounded-2xl flex flex-col justify-center items-center gap-4 p-2 md:p-4 py-4 md:py-7 hover:bg-white hover:scale-110 duration-300 hover:shadow-2xl'>
+              ServicesData.map((services, index) => (
+                <div key={index} className='bg-[#f4f4f4] rounded-2xl flex flex-col justify-center items-center gap-4 p-2 md:p-4 py-4 md:py-7 hover:bg-white hover:scale-110 duration-300 hover:shadow-2xl'>
                   <div className="text-3xl md:text-4xl mb-1 md:mb-4"> {services.icon} </div>
                   <h1 className='text-sm md:text-lg font-semibold text-center px-3'>{services.title}</h1>
                 </div>

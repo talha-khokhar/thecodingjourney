@@ -58,7 +58,7 @@ const Hero = () => {
         <div className="flex flex-col justify-center py-14 md:py-0 relative z-20">
           <div className="text-center md:text-left space-y-10 lg:max-w-[400px]">
             <h1 className="text-3xl lg:text-5xl font-bold leading-snug">
-              Let's Learn to build a <span className="text-secondary">website</span> for your business
+              Let&rsquo;s Learn to build a <span className="text-secondary">website</span> for your business
             </h1>
             <div className="flex justify-center md:justify-start">
               <button className="primary-btn flex items-center gap-2 group">
